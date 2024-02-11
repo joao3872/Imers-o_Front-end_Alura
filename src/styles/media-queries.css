@@ -1,0 +1,79 @@
+@media screen and (min-width: 760px) {
+    .cards {
+        width: 188px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 790px) {
+    .header__search {
+        width: 30%;
+        position: absolute;
+        margin-left: 2.7rem;
+    }
+
+    .header__search input::placeholder {
+        width: 60px;
+    }
+
+    .header__login .subscribe {
+        margin-right: 20px;
+    }
+}
+
+@media screen and (min-width: 791px) {
+    .header__search {
+        width: 48%;
+    }
+}
+
+@media screen and (max-width: 1015px) {
+    .sidebar {
+        width: 260px;
+    }
+
+    .main-container {
+        margin-left: 280px;
+    }
+    
+    .header__navigation {
+        width: 95%;
+    }
+    
+    .arrow-right {
+        display: none;
+    }
+
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 1130px) {
+    .footer-main {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    .footer-main .group-link-two, .group-link-three {
+        margin-top: 0;
+    }
+
+    .footer-main .container-redes-sociais {
+        display: flex;
+        align-items: center;
+        margin-top: 0;
+    }
+}
+
+@media screen and (min-width: 301px) and (max-width: 759px) {
+    .cards {
+        width: 185px;
+        height: 100px;
+    }
+
+    .cards span {
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,40 @@
+:root {
+    /* FONT */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-color: #131313;
+    --bg-arrow-color: rgba(0, 0, 0, .7);
+    --bg-color-two: #121212;
+    --bg-color-three: #242424;
+    --bg-color-four: #181818;
+    --bg-color-five: #252525;
+    --bg-play: #1db954;
+    --black: #000;
+    --blue-gradient: #509bf5;
+    --color-border: #878787;
+    --color-subscribe: #a7a7a7;
+    --color-text: #b3b3b3;
+    --color-text-two: #6a6a6a;
+    --purple-gradient: #ae2896;
+    --transparent: transparent;
+    --white: #fff;
+    --white-transparent: rgba(255, 255, 255, .1);
+    --white-transparent-two: rgba(255, 255, 255, .4);
+
+    --color-card-one: rgb(0, 100, 80);
+    --color-card-two: rgb(132, 0, 231);
+    --color-card-three: rgb(30, 50, 100);
+    --color-card-four: rgb(140, 25, 50);
+    --color-card-five: rgb(232, 17, 91);
+    --color-card-six: rgb(83, 122, 161);
+    --color-card-seven: rgb(142, 102, 172);
+    --color-card-eight: rgb(20, 138, 8);
+    --color-card-nine: rgb(30, 50, 100);
+    --color-card-ten: rgb(233, 20, 41);
+    --color-card-eleven: rgb(80, 55, 80);
+    --color-card-twelve: rgb(216, 64, 0);
+    --color-card-thirteen: rgb(186, 93, 7);
+    --color-card-fourteen: rgb(0, 30, 80);
+    --color-card-fifteen: rgb(60, 30, 80);
+}
